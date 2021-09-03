@@ -25,7 +25,7 @@ In this, I have also done validations. At the time of  registration, user must h
 4) After successful registration and login, home page will be shown and a welcome message will be displayed with **name** .
 
 
-**Main thing :  When user register or login, a token will be generated and stored in cookie. If user doesnot logout and close site and then instantly open then he can also open Home page because authentication will be successful (like github, amazon,...etc)
+**Main thing :  When user register or login, a token will be generated and stored in cookie. If user doesnot logout and close site and then instantly open then he can also open Home page because authentication will be successful (like github, amazon,...etc)**
 
 
 
